@@ -52,7 +52,9 @@ body {
     display: flex;
     border: 0.6px silver solid;
     justify-content: space-between;
-    padding: 1em;
+    padding: 0.2em;
+
+    
 }
 
 .nombre {
@@ -100,7 +102,7 @@ body {
     display: flex;
     justify-content: space-evenly;
     align-items: center;
-    padding: 1em;
+    padding-left: 1em;
     border: 0.6px silver solid;
 
 }
@@ -121,7 +123,10 @@ body {
 }
 
 .color-p-amigos {
-    color: #828485
+    color: #828485;
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+    
 }
 
 .estado {
